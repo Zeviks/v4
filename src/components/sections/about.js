@@ -147,14 +147,15 @@ const About = () => {
             <p>
               Hello! My name is Natanael and I enjoy creating things that live on the internet. My
               interest in web development started back in 2019 when I decided to try out some online
-              courses. And ended up falling in love with development, the satisfaction of putting
-              things together and seing them in the end its so awesome.
+              courses. And ended up falling in love with development and went full self-taught. The
+              satisfaction of building things in code and seeing them come together in the end its
+              just so awesome.
             </p>
 
             <p>
-              Fast-forward to today, and I’ve have learned a ton about how the web works and overall
-              development. From implementing proper data structures & algorithms, to building
-              awesome accessible focused & responsive sites.
+              Fast-forward to today, and I have learned a ton about how the web works and overall
+              development. From implementing proper data structures & algorithms to building awesome
+              accessible focused & responsive sites.
             </p>
 
             <p>Here are a few technologies I’ve been working with recently:</p>
