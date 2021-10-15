@@ -1,7 +1,7 @@
 ---
-date: '2018-05-14'
-title: 'Engineer'
-company: 'Upstatement'
+date: '2021-05-14'
+title: ''
+company: 'Open Source'
 location: 'Boston, MA'
 range: 'May 2018 - Present'
 url: 'https://www.upstatement.com/'
