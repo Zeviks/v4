@@ -10,5 +10,5 @@ tech:
   - iOS
   - Android
 company: 'Upstatement'
-showInProjects: true
+showInProjects: false
 ---
