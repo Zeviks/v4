@@ -61,7 +61,8 @@ const Contact = () => {
 
       <p>
         I would love to hear about any feedback you may have, any ideas on how I can improve my
-        site, Job opportunities, or even tech that I should consider picking up.
+        site, Job opportunities, or even tech that I should consider picking up, An emoji 😃,
+        Anything Goes!🎉
       </p>
 
       <a className="email-link" href={`mailto:${email}`}>

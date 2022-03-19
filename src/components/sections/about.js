@@ -128,13 +128,13 @@ const About = () => {
 
   const skills = [
     'HTML5',
-    'TypeScript',
     'CSS / SCSS',
     'Node.js',
     'JavaScript (ES6+)',
-    'MongoDB',
-    'React / Redux',
-    'Next.js',
+    'React',
+    'Axios',
+    'MUI / Styled Components',
+    'Redux Basics',
   ];
 
   return (
@@ -147,18 +147,19 @@ const About = () => {
             <p>
               Hello! My name is Natanael and I enjoy creating things that live on the internet. My
               interest in web development started back in 2019 when I decided to try out some online
-              courses. And ended up falling in love with development and went full self-taught. The
-              satisfaction of building things in code and seeing them come together in the end its
-              just so awesome.
+              courses. And ended up falling in love with development. The satisfaction of building
+              things in code and seeing them come together in the end its just so awesome. Until
+              recently i have mainly been focused on Frontend Development, but i am slowly working
+              towards my next goal Full-Stack Development.
             </p>
 
             <p>
-              Fast-forward to today, and I have learned a ton about how the web works and overall
-              development. From implementing proper data structures & algorithms to building awesome
-              accessible focused & responsive sites.
+              Fast-forward to today, and I have developed multiple projects that cover multiple
+              areas from e-commerece to even a weather forecast site. Be sure to check out some of
+              my work below.
             </p>
 
-            <p>Here are a few technologies I’ve been working with recently:</p>
+            <p>Here's a list of the technologies I’ve been working with recently:</p>
           </div>
 
           <ul className="skills-list">
