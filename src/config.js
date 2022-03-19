@@ -6,22 +6,10 @@ module.exports = {
       name: 'GitHub',
       url: 'https://github.com/Zeviks',
     },
-    // {
-    //   name: 'Instagram',
-    //   url: 'https://www.instagram.com/_natez_/',
-    // },
-    {
-      name: 'Twitter',
-      url: 'https://twitter.com/bchiang7',
-    },
     {
       name: 'Linkedin',
       url: 'https://www.linkedin.com/in/natanaelpachecorobles/',
     },
-    // {
-    //   name: 'Codepen',
-    //   url: 'https://codepen.io/bchiang7',
-    // },
   ],
 
   navLinks: [
@@ -30,13 +18,14 @@ module.exports = {
       url: '/#about',
     },
     {
-      name: 'Experience',
-      url: '/#jobs',
-    },
-    {
-      name: 'Work',
+      name: 'Projects',
       url: '/#projects',
     },
+    // {
+    //   name: 'Work',
+    //   url: '/#jobs',
+    // },
+
     {
       name: 'Contact',
       url: '/#contact',
