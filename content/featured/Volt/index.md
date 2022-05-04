@@ -1,6 +1,6 @@
 ---
 date: '1'
-title: 'Volt - Video Chat Application'
+title: ' Volt - Video Chat Application'
 cover: './halcyon.png'
 github: 'https://github.com/Zeviks/project-volt'
 external: 'https://volt-video-chat-app.vercel.app/'

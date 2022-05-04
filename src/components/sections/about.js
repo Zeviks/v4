@@ -145,12 +145,13 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              Hello! My name is Natanael and I enjoy creating things that live on the internet. My
+              Hello! My name is Natanael. I enjoy creating things that live on the internet. My
               interest in web development started back in 2018 when I decided to try out some online
               courses. And ended up falling in love with development, been pursuing it eversince.
               The satisfaction of designing the application's UI & seeing it come together in code
-              with its functionality its just so awesome, its crazy to believe people get paid to do
-              this. I mainly focus on Frontend development, but I also love to work on the backend.
+              with its functionality its just so awesome. Its crazy to believe people get paid to do
+              this. I mainly focus on Frontend development but i am not limited to just frontend, i
+              can work on the backend, UI design, and much more.
             </p>
             <p></p>
 

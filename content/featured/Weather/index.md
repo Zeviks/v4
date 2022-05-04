@@ -1,15 +1,14 @@
 ---
-date: '2'
-title: 'Spotify Profile'
-cover: './demo.png'
-github: 'https://github.com/bchiang7/spotify-profile'
-external: 'https://spotify-profile.herokuapp.com/'
+date: '3'
+title: 'Weather Forecast - Weather'
+cover: './course-card.png'
+external: 'https://www.newline.co/courses/build-a-spotify-connected-app'
+cta: 'https://www.newline.co/courses/build-a-spotify-connected-app'
 tech:
   - React
-  - Styled Components
-  - Express
-  - Spotify API
-  - Heroku
+  - Axios
+  - MetaWeatherAPI
+  - Netlify
 ---
 
-A web app for visualizing personalized Spotify data. View your top artists, top tracks, recently played tracks, and detailed audio information about each track. Create and save new playlists of recommended tracks based on your existing playlists and more.
+A Weather Forecast App, Built using [React](),[Axios](),[MetaWeatherAPI](), And styled with [CSS-Modules](). </br>Simply provide the name of a city and you will recieve the current weather for the given city.
