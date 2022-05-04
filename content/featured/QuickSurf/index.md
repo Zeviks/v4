@@ -1,7 +1,7 @@
 ---
 date: '2'
 title: 'QuickSurf - E-Commerce Site'
-cover: './demo.png'
+cover: './QuicksurfPortfolio.jpg'
 github: 'https://github.com/Zeviks/quicksurf'
 external: 'https://quicksurf-final.vercel.app/'
 tech:

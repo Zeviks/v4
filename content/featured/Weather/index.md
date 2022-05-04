@@ -1,9 +1,9 @@
 ---
 date: '3'
 title: 'Weather Forecast - Weather'
-cover: './course-card.png'
-external: 'https://www.newline.co/courses/build-a-spotify-connected-app'
-cta: 'https://www.newline.co/courses/build-a-spotify-connected-app'
+cover: './WeatherPortfolio.jpg'
+external: 'https://jocular-seahorse-c9ef2c.netlify.app/'
+cta: 'https://jocular-seahorse-c9ef2c.netlify.app/'
 tech:
   - React
   - Axios
