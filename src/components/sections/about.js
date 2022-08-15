@@ -132,8 +132,8 @@ const About = () => {
     'Node.js',
     'JavaScript (ES6+)',
     'React',
-    'Axios',
-    'MUI / Styled Components',
+    'TypeSctipt',
+    'Tailwind CSS',
     'Next.js',
   ];
 
@@ -145,15 +145,15 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              Hello! My name is Natanael. I enjoy creating things that live on the internet. My
-              interest in web development started back in 2018 when I decided to try out some online
-              courses. And ended up falling in love with development, been pursuing it eversince.
-              The satisfaction of designing the application's UI & seeing it come together in code
-              with its functionality its just so awesome. Its crazy to believe people get paid to do
-              this. I mainly focus on Frontend development but i am not limited to just frontend, i
-              can work on the backend, UI design, and much more.
+              Hello! My name is Natanael. I have enjoyed creating things my whole life, from lego
+              castles to sugar rockets. But recently I have found a new passion for creating things
+              that live on the internet. My interest in web development started back in 2018 when I
+              decided to try out some online courses. Long-story short, I ended up falling in love
+              with development,I have been constantly improving my skills eversince. Development has
+              become almost therapeutic for me, has made me grow a knack for problem solving, and
+              has made me a better person.
             </p>
-            <p></p>
+            <p>I am currently looking for a company to join as a full-time developer.</p>
 
             <p>Here's a list of the technologies I’ve been working with recently:</p>
           </div>
