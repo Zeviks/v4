@@ -1,6 +1,6 @@
 ---
 date: '2'
-title: 'Luna 🌙 - Full Stack Ecommerce Store'
+title: 'Luna 🌙 - Full Stack Ecommerce'
 cover: './portfolio-thunm.png'
 github: 'https://github.com/Zeviks/ecom-sanity-nova'
 external: 'https://ecom-sanity-nova.vercel.app/'
