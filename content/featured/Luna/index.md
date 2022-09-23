@@ -1,5 +1,5 @@
 ---
-date: '2'
+date: '1'
 title: 'Luna 🌙 - Full Stack Ecommerce'
 cover: './portfolio-thunm.png'
 github: 'https://github.com/Zeviks/ecom-sanity-nova'

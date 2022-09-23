@@ -1,5 +1,5 @@
 ---
-date: '1'
+date: '3'
 title: 'Traffik - Admin Dashboard'
 cover: './Traffik-Portfolio.png'
 github: 'https://github.com/Zeviks/Traffik-v1'

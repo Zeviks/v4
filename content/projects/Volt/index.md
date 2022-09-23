@@ -1,6 +1,6 @@
 ---
 date: '2'
-title: ' Volt - Video Chat Application'
+title: ' Volt 1.0 - Video Chat Application'
 cover: './Volt-Portfolio.jpg'
 github: 'https://github.com/Zeviks/project-volt'
 external: 'https://volt-video-chat-app.vercel.app/'
