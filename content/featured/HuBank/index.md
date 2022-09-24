@@ -1,6 +1,6 @@
 ---
-date: '2'
-title: 'HooBank'
+date: '3'
+title: 'HooBank - Modern Landing Page'
 cover: './Bank.png'
 github: 'https://github.com/Zeviks/BankUI'
 external: 'https://master--isnt-zeviks-awesome.netlify.app/'
