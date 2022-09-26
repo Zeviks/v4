@@ -9,4 +9,4 @@ tech:
   - Frontend Development
 ---
 
-Designed on figma, a awesome modern landing page for a bank / credit car provider. Built using [TailwindCSS](), [React.js]().
+Designed on Figma, an awesome modern landing page for a bank/credit card provider. Built using [TailwindCSS](), [React.js]().
