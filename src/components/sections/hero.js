@@ -30,7 +30,7 @@ const StyledHeroSection = styled.section`
 
   h3 {
     margin-top: 10px;
-    color: var(--slate);
+    color: var(--orange);
     line-height: 0.9;
   }
 
@@ -64,9 +64,8 @@ const Hero = () => {
   const four = (
     <>
       <p>
-        I’m a Front-End Developer specializing in building (and occasionally designing) exceptional
-        digital experiences. Currently, I’m focused on building accessible, responsive, and awesome
-        looking sites.
+        A UX Engineer based in Texas. I specialize in designing (and occasionally building)
+        exceptional digital experiences that solve problems, while also looking fantastic.
       </p>
     </>
   );

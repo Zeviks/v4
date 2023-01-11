@@ -6,16 +6,21 @@ const variables = css`
     --navy: #03071e;
     --light-navy: #112240;
     --lightest-navy: #233554;
-    --navy-shadow: rgba(2, 12, 27, 0.7);
+    --navy-shadow: rgba(247, 104, 9, 0.7);
     --dark-slate: #495670;
     --slate: #8892b0;
     --light-slate: #a8b2d1;
     --lightest-slate: #ccd6f6;
     --white: #e6f1ff;
-    --green: #ffee32; // #64ffda
-    --green-tint: rgba(255, 238, 50, 0.1);
-    --pink: #f57dff;
+    --green: #F76809;
+    --green-tint: rgba(247, 104, 9, 0.1);
+    --pink: #F98639;
     --blue: #57cbff;
+    --orange: #F76809;
+    --orange-tint: rgba(247, 104, 9, 0.1)
+    --orange-shadow: rgba(247, 104, 9, 0.5)
+    --light-orange: #FCC29C;
+    
 
     --font-sans: 'Calibre', 'Inter', 'San Francisco', 'SF Pro Text', -apple-system, system-ui,
       sans-serif;

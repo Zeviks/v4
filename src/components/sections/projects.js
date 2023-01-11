@@ -71,7 +71,7 @@ const StyledProject = styled.li`
     height: 100%;
     padding: 2rem 1.75rem;
     border-radius: var(--border-radius);
-    background-color: var(--light-navy);
+    background-color: var(--navy);
     transition: var(--transition);
   }
 
@@ -148,6 +148,7 @@ const StyledProject = styled.li`
     align-items: flex-end;
     flex-grow: 1;
     flex-wrap: wrap;
+    color: var(--pink);
     padding: 0;
     margin: 20px 0 0 0;
     list-style: none;

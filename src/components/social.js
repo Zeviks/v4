@@ -12,6 +12,7 @@ const StyledSocialList = styled.ul`
   margin: 0;
   padding: 0;
   list-style: none;
+  color: var(--dark-slate);
 
   &:after {
     content: '';
@@ -19,7 +20,7 @@ const StyledSocialList = styled.ul`
     width: 1px;
     height: 90px;
     margin: 0 auto;
-    background-color: var(--light-slate);
+    background-color: var(--green);
   }
 
   li {

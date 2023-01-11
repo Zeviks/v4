@@ -106,7 +106,7 @@ const Footer = () => {
 
       <StyledCredit tabindex="-1">
         <a href="/#">
-          <div>Designed by Brittany Chiang</div>
+          <div>Back to Top</div>
         </a>
       </StyledCredit>
     </StyledFooter>

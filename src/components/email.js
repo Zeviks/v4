@@ -9,6 +9,7 @@ const StyledLinkWrapper = styled.div`
   flex-direction: column;
   align-items: center;
   position: relative;
+  color: var(--dark-slate);
 
   &:after {
     content: '';
@@ -16,7 +17,7 @@ const StyledLinkWrapper = styled.div`
     width: 1px;
     height: 90px;
     margin: 0 auto;
-    background-color: var(--light-slate);
+    background-color: var(--green);
   }
 
   a {

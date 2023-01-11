@@ -145,13 +145,12 @@ const About = () => {
         <StyledText>
           <div>
             <p>
-              Hello! My name is Natanael. I have enjoyed creating things my whole life, from lego
-              castles to sugar rockets. But recently I have found a new passion for creating things
-              that live on the internet. My interest in web development started back in 2018 when I
-              decided to try out some online courses. Long-story short, I ended up falling in love
-              with development,I have been constantly improving my skills eversince. Development has
-              become almost therapeutic for me, has made me grow a knack for problem solving, and
-              has made me a better person.
+              My name is Natanael, throughout my life, I have had a passion for technology.
+              Recently, my focus has shifted to the digital realm with a newfound interest in web
+              development. My journey in this field began in 2018 with online courses and I have
+              been actively improving my skills ever since. Not only has development been
+              therapeutic for me, but it has also sharpened my problem-solving abilities and made me
+              a better individual overall.
             </p>
             <p>I am currently looking for a company to join as a full-time developer.</p>
 
